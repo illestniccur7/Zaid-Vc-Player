@@ -1,3 +1,4 @@
+#!/bin/bash
 git clone $REPO_URL Xyz
 cd Xyz
 python3 main.py
